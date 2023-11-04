@@ -1,1 +1,3 @@
-# RoomBookingWS
+spring boot app
+
+java 17 
